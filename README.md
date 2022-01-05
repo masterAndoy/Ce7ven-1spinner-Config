@@ -1,1 +1,1 @@
-# Ce7ven-1spinner-Config
+1 spinner SSH
